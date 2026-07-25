@@ -1,7 +1,8 @@
 # Big Data - Analyse Exploratoire Appliquée à l'Assurance
 
 ##  Présentation du Projet
-Ce projet présente une analyse exploratoire de données (EDA) appliquée au secteur de l'assurance. L'objectif est de comprendre les facteurs clés influençant les risques et les coûts, et d'en extraire des insights décisionnels.
+**[Découvrir le Dashboard Streamlit en ligne](https://projet-n1-big-data-analyse-exploratoire-assurance-st.streamlit.app/)**   
+Ce projet présente une analyse exploratoire de données appliquée au secteur de l'assurance. **L'objectif est de comprendre les facteurs clés influençant la durée de traitement des dossiers, et d'en extraire des insights décisionnels.**
 Les différents modules ont permis de modéliser et de valoriser un jeu de données opérationnel lié à la gestion des dossiers d'assistance assurance.
 
 ## Contenu des Analyses
@@ -24,7 +25,7 @@ Entraînement, validation et comparaison de quelques modèles de ML en s'assuran
 **Dashboard Interactive avec l'outil Streamlit :**
 Conception d'un simulateur destiné aux managers pour estimer les temps de traitement des dossiers en configurant des options. Ce dashboard résume aussi des résultats des différents modèles  explorés.
 
-**Pour accéder au Dashboard :**
+**Pour accéder au Dashboard DEPUIS le terminal :**
 Ouvrez un terminal, placez-vous dans le dossier contenant dashboard.py, puis exécutez :
 bashcd /chemin/vers/le/dossier
 streamlit run dashboard.py  **OU ENCORE PLUS SIMPLEMENT**   streamlit run notebooks/dashboard.py
@@ -37,9 +38,9 @@ Attention !!! Sans fichier chargé, le dashboard fonctionne avec des données si
 
 
 ## Stack Technique
-* **Langage :** Python 3
+* **Langage :** Python 3 13 7
 * **Environnement :**  Notebook (VS Code)
-* **Librairies principales :** Pandas, NumPy, Matplotlib, Seaborn
+* **Librairies principales :** Pandas, NumPy, Matplotlib, Seaborn, Prince
 
 ##  Structure du Dépôt
 * `notebooks/` : Contient les notebooks d'analyse pas à pas.
