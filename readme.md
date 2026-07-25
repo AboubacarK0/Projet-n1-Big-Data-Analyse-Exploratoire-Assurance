@@ -27,7 +27,7 @@ Conception d'un simulateur destiné aux managers pour estimer les temps de trait
 **Pour accéder au Dashboard :**
 Ouvrez un terminal, placez-vous dans le dossier contenant dashboard.py, puis exécutez :
 bashcd /chemin/vers/le/dossier
-streamlit run dashboard.py  
+streamlit run dashboard.py  **OU ENCORE PLUS SIMPLEMENT**   streamlit run notebooks/dashboard.py
 **-> Lecture du Dashboard :**    
 Une fois le dashboard ouvert, dans la barre latérale à gauche ,    
 cliquez sur "📂 Charger votre CSV"
