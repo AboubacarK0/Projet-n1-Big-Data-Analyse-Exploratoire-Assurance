@@ -28,11 +28,11 @@ Conception d'un simulateur destiné aux managers pour estimer les temps de trait
 Ouvrez un terminal, placez-vous dans le dossier contenant dashboard.py, puis exécutez :
 bashcd /chemin/vers/le/dossier
 streamlit run dashboard.py  
-**-> Lecture du Dashboard :**  
-Une fois le dashboard ouvert, dans la barre latérale à gauche : 
-Cliquez sur "📂 Charger votre CSV"
+**-> Lecture du Dashboard :**    
+Une fois le dashboard ouvert, dans la barre latérale à gauche ,    
+cliquez sur "📂 Charger votre CSV"
 Naviguez vers votre fichier base_econometrie_clean.csv peu importe où il se trouve sur votre machine
-Sélectionnez-le et le dashboard se met à jour automatiquement
+Sélectionnez-le et le dashboard se met à jour automatiquement.   
 Attention !!! Sans fichier chargé, le dashboard fonctionne avec des données simulées à titre de démonstration.
 
 
