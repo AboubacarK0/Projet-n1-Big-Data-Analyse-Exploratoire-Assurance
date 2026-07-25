@@ -1,7 +1,11 @@
 # Big Data - Analyse Exploratoire Appliquée à l'Assurance
 
 ##  Présentation du Projet
-**[Découvrir le Dashboard Streamlit en ligne](https://projet-n1-big-data-analyse-exploratoire-assurance-st.streamlit.app/)**   
+**[Découvrir le Dashboard Streamlit en ligne](https://projet-n1-big-data-analyse-exploratoire-assurance-st.streamlit.app/)**     -> Lecture du Dashboard :
+Une fois le dashboard ouvert, dans la barre latérale à gauche ,
+cliquez sur "📂 Charger votre CSV" Naviguez vers votre fichier base_econometrie_clean.csv peu importe où il se trouve sur votre machine Sélectionnez-le et le dashboard se met à jour automatiquement.
+Attention !!! Sans fichier chargé, le dashboard fonctionne avec des données simulées à titre de démonstration.  
+
 Ce projet présente une analyse exploratoire de données appliquée au secteur de l'assurance. **L'objectif est de comprendre les facteurs clés influençant la durée de traitement des dossiers, et d'en extraire des insights décisionnels.**
 Les différents modules ont permis de modéliser et de valoriser un jeu de données opérationnel lié à la gestion des dossiers d'assistance assurance.
 
