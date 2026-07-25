@@ -8,7 +8,7 @@ Attention !!! Sans fichier chargé, le dashboard fonctionne avec des données si
   
 
 Ce projet présente une analyse exploratoire de données appliquée au secteur de l'assurance. **L'objectif est de comprendre les facteurs clés influençant la durée de traitement des dossiers, et d'en extraire des insights décisionnels.**
-Les différents modules ont permis de modéliser et de valoriser un jeu de données opérationnel lié à la gestion des dossiers d'assistance assurance et d'**établir un outil d'estimation de la durée de traitement d'un dossier en configurant les caractéristiques du dossier dans les filtres Streamlit.**
+Les différents modules ont permis de modéliser et de valoriser un jeu de données opérationnel lié à la gestion des dossiers d'assistance assurance et **d'établir un outil d'estimation de la durée de traitement d'un dossier en configurant les caractéristiques du dossier dans les filtres Streamlit.**
 
 ## Contenu des Analyses
 La démarche s'articule autour de trois grands axes :
